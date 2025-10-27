@@ -23,8 +23,8 @@ It's a Linux Distribution for untitled tag game player's (Based on Debian Sid) w
 - Rolling releases model (Receive lastest packages from Debian Sid)
 - And more
 
-# Screenshots
-<img width="1920" height="975" alt="Linux_27_10_2025_12_00_52" src="https://github.com/user-attachments/assets/9466a682-707d-4e14-a10c-c11af0132ddc" />
+# Desktop Environment (DE)
+KDE Plasma 6
 
 # ISO Downloads
 SourceForge: https://sourceforge.net/projects/utg-linux-rolling/files/UTG-Linux-Garfield/
