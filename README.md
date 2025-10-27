@@ -10,7 +10,7 @@ It's a Linux Distribution for untitled tag game player's (Based on Debian Sid) w
 | What's your UTG/Linux (Rolling) codename? | Garfield |
 | UTG/Linux (Rolling) is based on? | Debian GNU/Linux Sid. |
 | What are your main DEs? | KDE Plasma. |
-| When will UTG/Linux Garfield be released? | Tomorrow |
+| When will UTG/Linux Garfield be released? | Released today! |
 | Is Sober (An unofficial Roblox Client for Linux) included? | Yes |
 | What different between UTG/Linux normal and rolling release? | Normal releases (stable branch) use a point release model, which receives security and bug fixes but holds back major software updates for new, tested versions, while its "rolling" equivalents (testing and unstable/Sid) provide a continuous stream of newer software updates as they become available |
 | How long to get new snapshots version of UTG/Linux Garfield? | Around 3 month per snapshot version (via ISO). |
