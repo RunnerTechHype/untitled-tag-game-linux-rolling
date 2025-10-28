@@ -17,7 +17,7 @@ It's a Linux Distribution for untitled tag game player's (Based on Debian Sid) w
 
 # Features
 - Calamares Installers
-- Post-installation script after installation (utg-post-install.sh) (But not included sadly)
+- Post-installation script after installation (utg-post-install.sh) (But not included sadly, so i will add it on the next snapshot)
 - Flathub repository included
 - Added Sober (An unofficial Roblox Client for Linux)
 - Rolling releases model (Receive lastest packages from Debian Sid)
