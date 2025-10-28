@@ -29,6 +29,9 @@ KDE Plasma 6
 # ISO Downloads
 SourceForge: https://sourceforge.net/projects/utg-linux-rolling/files/UTG-Linux-Garfield/
 
+# Screenshots
+<img width="1920" height="975" alt="Linux_27_10_2025_12_00_52" src="https://github.com/user-attachments/assets/09492df7-ca98-4489-acbb-dce1842b50e2" />
+
 # Contact:
 - Discord: untitledtaggame_hype
 - Tiktok: (same discord username)
@@ -36,3 +39,7 @@ SourceForge: https://sourceforge.net/projects/utg-linux-rolling/files/UTG-Linux-
 
 # Roblox:
 DemonBall_Hype
+
+# Changelogs
+**Snapshot 20251028:**
+- First initial release of UTG/Linux Garfield!
