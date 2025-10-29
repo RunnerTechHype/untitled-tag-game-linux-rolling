@@ -41,5 +41,5 @@ SourceForge: https://sourceforge.net/projects/utg-linux-rolling/files/UTG-Linux-
 DemonBall_Hype
 
 # Changelogs
-**Snapshot 20251026:**
+**Snapshot 20251026 (Sorry for wrong snapshot dates 🥀💔:**
 - First initial release of UTG/Linux Garfield!
