@@ -45,11 +45,11 @@ DemonBall_Hype
 **Snapshot 20251101 (Release tomorrow)**
 - Added Application/Packages and Features:
 + Libreoffice included
-+ Modified calamares installers with updated slideshow during installation
++ Modified calamares installers with updated slideshow during installation (And also it will be added to RC Version of UTG/Linux https://github.com/RunnerTechHype/untitled-tag-game-linux)
 + Updated Snapshot version (20251026 -> 20251101)
 + Dracut by default for initramfs tools (But not added, and delayed until the next snapshot version)
-+ Updated os-release
-+ utg-post-installa.sh (not added by default until the next snapshot version)
++ Updated os-release (It should be added to UTG/Linux Runner RC too also https://github.com/RunnerTechHype/untitled-tag-game-linux)
++ utg-post-install.sh (not added by default until the next snapshot version)
 + Breeze Dark theme by default
 + Updated KDE Plasma to 6.5.1 (with Improvements and bugfixes)
 + Updated Linux Kernel to 6.17.6
