@@ -41,5 +41,16 @@ SourceForge: https://sourceforge.net/projects/utg-linux-rolling/files/UTG-Linux-
 DemonBall_Hype
 
 # Changelogs
+
+**Snapshot 20251101 (Release tomorrow)**
+# Added Application/Packages and Features
+- Libreoffice
+- Modified calamares installers with updated slideshow during installation
+- Updated Snapshot version (20251026 -> 20251101)
+- Dracut by default for initramfs tools (But not added)
+- Updated os-release
+- utg-post-installa.sh (not added by default until next snapshot version)
+- Breeze Dark theme by default
+
 **Snapshot 20251026 (Sorry for wrong snapshot dates 🥀💔):**
 - First initial release of UTG/Linux Garfield!
