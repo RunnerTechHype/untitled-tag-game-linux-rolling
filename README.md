@@ -47,7 +47,7 @@ DemonBall_Hype
 + Libreoffice included
 + Modified calamares installers with updated slideshow during installation
 + Updated Snapshot version (20251026 -> 20251101)
-+ Dracut by default for initramfs tools (But not added)
++ Dracut by default for initramfs tools (But not added, and delayed until next snapshot version)
 + Updated os-release
 + utg-post-installa.sh (not added by default until next snapshot version)
 + Breeze Dark theme by default
