@@ -43,14 +43,16 @@ DemonBall_Hype
 # Changelogs
 
 **Snapshot 20251101 (Release tomorrow)**
-# Added Application/Packages and Features
-- Libreoffice included
-- Modified calamares installers with updated slideshow during installation
-- Updated Snapshot version (20251026 -> 20251101)
-- Dracut by default for initramfs tools (But not added)
-- Updated os-release
-- utg-post-installa.sh (not added by default until next snapshot version)
-- Breeze Dark theme by default
+- Added Application/Packages and Features
++ Libreoffice included
++ Modified calamares installers with updated slideshow during installation
++ Updated Snapshot version (20251026 -> 20251101)
++ Dracut by default for initramfs tools (But not added)
++ Updated os-release
++ utg-post-installa.sh (not added by default until next snapshot version)
++ Breeze Dark theme by default
++ Updated KDE Plasma to 6.5.1 (with Improvements and bugfixes)
++ Updated Linux Kernel to 6.17.6
 
 **Snapshot 20251026 (Sorry for wrong snapshot dates 🥀💔):**
 - First initial release of UTG/Linux Garfield!
