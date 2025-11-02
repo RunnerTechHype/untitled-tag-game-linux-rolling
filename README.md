@@ -44,7 +44,7 @@ DemonBall_Hype
 
 **Snapshot 20251101 (Release tomorrow)**
 # Added Application/Packages and Features
-- Libreoffice
+- Libreoffice included
 - Modified calamares installers with updated slideshow during installation
 - Updated Snapshot version (20251026 -> 20251101)
 - Dracut by default for initramfs tools (But not added)
