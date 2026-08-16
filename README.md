@@ -40,20 +40,5 @@ SourceForge: https://sourceforge.net/projects/utg-linux-rolling/files/UTG-Linux-
 # Roblox:
 DemonBall_Hype
 
-# Changelogs
-
-**Snapshot 20251101 (Released today!)**
-- Added Application/Packages and Features:
-+ Libreoffice included
-+ Modified calamares installers with updated slideshow during installation (And also it will be added to RC Version of UTG/Linux https://github.com/RunnerTechHype/untitled-tag-game-linux)
-+ Updated Snapshot version (20251026 -> 20251101)
-+ Dracut by default for initramfs tools (But not added, and delayed until the next snapshot version)
-+ Updated os-release (It should be added to UTG/Linux Runner RC too also https://github.com/RunnerTechHype/untitled-tag-game-linux)
-+ utg-post-install.sh (not added by default until the next snapshot version)
-+ Breeze Dark theme by default
-+ Updated KDE Plasma to 6.5.1 (with Improvements and bugfixes)
-+ Updated Linux Kernel to 6.17.6
-# (Downloads Link: https://sourceforge.net/projects/utg-linux-rolling/files/UTG-Linux-Garfield/utg-linux-rolling-kde-snapshot-20251101-x86_64.iso/download)
-
-**Snapshot 20251026 (Sorry for wrong snapshot dates 🥀💔):**
-- First initial release of UTG/Linux Garfield!
+# ChangeLogs:
+Update: Please refer to [this ChangeLog.txt](https://github.com/RunnerTechHype/untitled-tag-game-linux-rolling/blob/main/ChangeLog.txt)
