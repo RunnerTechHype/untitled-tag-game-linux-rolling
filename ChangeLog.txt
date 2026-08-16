@@ -1,3 +1,23 @@
+[Sun Aug 16 03:27:29 PM +07 2026]
+Here's the future and upcoming changes for UTG/Linux Garfield
+
+UPCOMING CHANGES:
+- I'm expecting to start developing UTG/Linux Garfield (Stable) - Based on Debian Forky
+- Remaking new Calamares installer (calamares-settings-garfield)
+- Discontinue Rolling release model on November 2026 along with release Alpha
+- Adding new Desktop Environment for Low-end PC (maybe LXQt)
+- UTG/Linux Garfield 14 Alpha will be released on November
+- Rolling Release model still being continued until November
+- Beta Version of UTG/Linux Garfield will be announced via ChangeLog after Debian announcing Forky freeze date (Beta 1, 2, 3 and RC following on Debian transition and toolchain freeze, soft freeze,
+hard freeze and full freeze)
+
+FUTURE CHANGES:
+- UTG/Linux Garfield 14.1 or 14.2 should be synced with Debian 14.1 or 14.2 as point release (But, We'll rebase KDE Plasma and LXQt versions but selected version for KDE Plasma)
+- Dracut with zstd by default
+- After Rolling Release being DISCONTINUED, we'll archive that ISOs on SourceForge
+- New Post-installation script also will be provided after install on UTG/Linux Garfield 14.5 or 14.6
+- Blocked Snapd by default (Like Linux Mint 20 did)
+
 [Sun Aug 16 01:42:59 PM +07 2026]
 Uhhhh, it's a new rig rn!1!1 :-)
 
