@@ -1,0 +1,11 @@
+[2025-11-05]
+ * New snapshot 20251101 released with few changes such as
+ KDE Plasma 6.5.0 -> 6.5.1 (First bugfixes release)
+ Linux Kernel 6.16.12 -> 6.17.5
+ Switched Breeze Light to Dark Theme by Default
+ Libreoffice added
+ Updated os-release
+ Modified calamares installers with updated slideshow during installation
+
+[2025-10-26]
+ * First initial release of UTG/Linux Garfield (Rolling)
