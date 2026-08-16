@@ -1,3 +1,25 @@
+[Sun Aug 16 01:42:59 PM +07 2026]
+Uhhhh, it's a new rig rn!1!1 :-)
+
+Sorry for not making any new UTG/Linux Garfield distro, so 1 weeks ago, me and with my parents buy a new pc at Phong Vu Computer
+in Buon Ma Thuot (city), and total it's $953 (24 million vnd) it's pretty cool with my new PC since i used my laptop for building
+UTG/Linux Garfield with Ryzen 3 4300U (4c/4t), and it's pretty slow at mksquashfs stage
+
+Here's my specs:
+ + Motherboard: ASUS PRIME B550M-A Wifi II
+ + RAM: 32GB (2x16)
+ + CPU: AMD Ryzen 7 5700X (8c/16t) <---- Much better than my Laptop with Ryzen 3 4300U
+ + GPU: AMD Radeon RX 6500 XT (4GB)
+ + Hard Disk:
+ * 500GB NVME M.2 SSD (for Windows)
+ * 1TB HDD (For Data and VM)
+ * 120GB SSD (For Debian)
+ * 250GB HDD (For FreeBSD)
+ + 650W PSU or 750W PSU (maybe 650w)
+
+Huge thanks to my parents for this :-)
+And We will return you to regularly scheduled changelogs of UTG/Linux Garfield (Including the future of the distribution, announcement, etc)
+
 [2025-11-05]
  * New snapshot 20251101 released with few changes such as
  KDE Plasma 6.5.0 -> 6.5.1 (First bugfixes release)
