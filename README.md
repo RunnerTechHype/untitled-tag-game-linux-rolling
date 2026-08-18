@@ -1,8 +1,10 @@
 # Welcome!
 Introducing UTG/Linux Garfield (Rolling release)!!
 
+⚠️ **IMPORTANT ANNOUNCEMENT**: The Rolling release model will be **discontinued in November 2026** along with the release of UTG/Linux Garfield 14 Alpha. For future updates, please refer to the stable release version.
+
 # What is UTG/Linux Garfield?
-It's a Linux Distribution for untitled tag game player's (Based on Debian Sid) with KDE Plasma as main DEs. Main installers is Calamares Installers. With Rolling Release model, which is receive the lastest packages from Debian Sid.
+It's a Linux Distribution for untitled tag game player's (Based on Debian Sid) with KDE Plasma as main DEs. Main installers is Calamares Installers. With Rolling Release model, which is receive the latest packages from Debian Sid. (Rolling version will be discontinued in November 2026)
 
 # FAQ - Frequently Asked Questions
 | **Question** | **Answer** |
@@ -12,8 +14,9 @@ It's a Linux Distribution for untitled tag game player's (Based on Debian Sid) w
 | What are your main DEs? | KDE Plasma. |
 | When will UTG/Linux Garfield be released? | Released today! |
 | Is Sober (An unofficial Roblox Client for Linux) included? | Yes |
-| What different between UTG/Linux normal and rolling release? | Normal releases (stable branch) use a point release model, which receives security and bug fixes but holds back major software updates for new, tested versions, while its "rolling" equivalents (testing and unstable/Sid) provide a continuous stream of newer software updates as they become available |
+| What different between UTG/Linux normal and rolling release? | Normal releases (stable branch) use a point release model, which receives security and bug fixes but holds back major software updates. Rolling releases receive the latest packages continuously. |
 | How long to get new snapshots version of UTG/Linux Garfield? | Around 3 month per snapshot version (via ISO). |
+| When will Rolling release be discontinued? | November 2026, when UTG/Linux Garfield 14 Alpha is released. |
 
 # Features
 - Calamares Installers
