@@ -17,7 +17,7 @@ It's a Linux Distribution for untitled tag game players (Based on Debian Sid) wi
 | What's the difference between UTG/Linux normal and rolling release? | Normal releases (stable branch) use a point release model, which receives security and bug fixes but holds back major software updates. Rolling releases receive the latest packages from Debian Sid continuously. |
 | How long to get new snapshots version of UTG/Linux Garfield? | Around 3 months per snapshot version (via ISO). |
 | When will Rolling release be discontinued? | August 31st, 2026 (9 days from August 21st, 2026), after which development shifts to UTG/Linux Garfield 14 Pre-alpha (Based on Debian 14 Forky). |
-| What's planned for UTG/Linux Garfield 14? | Alpha release in October 2026, Beta versions following Debian's freeze schedule, with stable release targeted for late 2026. |
+| What's planned for UTG/Linux Garfield 14? | Alpha release in October 2026, Beta versions following Debian's freeze schedule, with stable release targeted for Summer 2027. |
 
 # Features
 - Calamares Installers (with custom slideshow)
