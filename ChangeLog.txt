@@ -7,7 +7,7 @@ So, November 2026 was an old schedule for discontinuing UTG/Linux Garfield Rolli
 
 That mean i will discontinue that rolling distro in 9 days for starting develop UTG/Linux Garfield 14 Pre-alpha (Based on Debian 14 Forky Testing), ahead of Alpha launch on October 2026
 
-(Written by S25 Ultra again)
+(Written on S25 Ultra again)
 
 [Mon Aug 17 17:27:49 +07 2026]
 
